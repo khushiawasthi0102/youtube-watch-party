@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: youtube-watch-party
+    env: node
+    plan: free
+    buildCommand: npm run build
+    startCommand: npm start
