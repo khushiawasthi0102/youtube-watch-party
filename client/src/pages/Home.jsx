@@ -94,7 +94,7 @@ export default function Home() {
               value={name}
               maxLength={24}
               autoComplete="nickname"
-              placeholder="e.g. Kushal"
+              placeholder="e.g. Khushi"
               onChange={(e) => setName(e.target.value)}
             />
           </label>
