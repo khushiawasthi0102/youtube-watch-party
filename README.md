@@ -2,7 +2,7 @@
 
 Watch a YouTube video together in a room. The host controls playback and everyone else stays in sync.
 
-**Live demo:** https://mediumvioletred-oryx-264272.hostingersite.com/
+**Live demo:** Coming soon (Deploy on Render)
 
 ## What it includes
 
