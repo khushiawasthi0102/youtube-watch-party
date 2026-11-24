@@ -1,0 +1,9 @@
+node_modules
+dist
+.env
+.DS_Store
+data/
+*.zip
+
+# personal interview notes (not part of the submission)
+INTERVIEW_PREP.md
